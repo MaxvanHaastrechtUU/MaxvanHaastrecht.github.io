@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Max van Haastrecht"
 title_separator          : "-"
 name                     : &name "Max van Haastrecht"
-description              : &description "The personal pages of Max van Haastrecht, PhD Candidate in Cybersecurity at Utrecht University."
+description              : &description "The personal pages of Max van Haastrecht, PhD candidate in Cybersecurity at Utrecht University."
 url                      : https://MaxvanHaastrecht.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaxvanHaastrecht/MaxvanHaastrecht.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Cybersecurity at Utrecht University, trying to keep money out of the hands of cyber criminals."
+  bio              : "PhD candidate in cybersecurity at Utrecht University; trying to keep money out of the hands of cyber criminals."
   location         : "Utrecht, NL"
   employer         : 
   pubmed           : 
