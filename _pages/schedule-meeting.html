@@ -1,4 +1,12 @@
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/maxvanhaastrecht/30min" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+---
+layout: archive
+title: "Schedule Meeting"
+permalink: /schedule-meeting/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
