@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This website provides a short summary of my work and my personal(!) thoughts and opinions. See my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page for more information on my research.
+This website provides a short summary of my work and my personal(!) interests, thoughts and opinions. See my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page for more information on my research.
