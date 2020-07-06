@@ -6,8 +6,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Schedule Meeting"
-    url: /schedule-meeting/
-    
   - title: "Cyber Map"
     url: /cyber-map/
+    
+  - title: "Schedule Meeting"
+    url: /schedule-meeting/
