@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Max van Haastrecht"
 description              : &description "The personal pages of Max van Haastrecht, PhD candidate in Cybersecurity at Utrecht University."
 url                      : https://MaxvanHaastrecht.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/about"
+baseurl                  : ""
 repository               : "MaxvanHaastrecht/MaxvanHaastrecht.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
