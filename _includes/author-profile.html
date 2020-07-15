@@ -10,7 +10,11 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <picture>
+        <source type="image/webp" srcset="{{ "profile.webp" | prepend: "/images/" | prepend: base_path }}">
+        <source type="image/png" srcset="{{ author.avatar | prepend: "/images/" | prepend: base_path }}">
+        <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      </picture>
     {% endif %}
   </div>
 
