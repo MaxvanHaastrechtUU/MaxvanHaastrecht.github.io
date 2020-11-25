@@ -1,5 +1,5 @@
 ---
-title: "Data Science and Society 2020"
+title: "Data Science and Society"
 collection: teaching
 type: "MSc Course"
 permalink: /teaching/data-science-society-2020
