@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This website is a work in progress for now... See my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page for more information on my research.
+Read about my publications, teaching, talks, and more. For more information on my research, see my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page and the website of the [GEIGER project](https://project.cyber-geiger.eu/).
