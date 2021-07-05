@@ -6,10 +6,10 @@ excerpt: 'A systematic review methodology blending active learning and backward 
 date: 2021-05-28
 venue: 'Frontiers in Research Metrics and Analytics'
 paperurl: 'https://doi.org/10.3389/frma.2021.685591'
-citation: 'van Haastrecht, M., Sarhan, I., Yigit Ozkan, B., Brinkhuis, M., & Spruit, M. (2021). &quot;SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing.&quot; <i>Frontiers in research metrics and analytics<i>, 6, 33.'
+citation: 'van Haastrecht, M., Sarhan, I., Yigit Ozkan, B., Brinkhuis, M., & Spruit, M. (2021). &quot;SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing.&quot; <i>Frontiers in research metrics and analytics</i>, 6, 33.'
 ---
-In this paper we present a novel systematic review methodology which combines active learning and backward snowballing.
+With this swift and accessible methodology, we hope to make systematic reviews a more enjoyable and satisfying experience.
   
 An interesting paper for any researcher planning to conduct a systematic review. Check it out [here](https://doi.org/10.3389/frma.2021.685591) and let us know what you think!
   
-Recommended citation: van Haastrecht, M., Sarhan, I., Yigit Ozkan, B., Brinkhuis, M., & Spruit, M. (2021). "SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing." Frontiers in research metrics and analytics, 6, 33.
+Recommended citation: van Haastrecht, M., Sarhan, I., Yigit Ozkan, B., Brinkhuis, M., & Spruit, M. (2021). "SYMBALS: A Systematic Review Methodology Blending Active Learning and Snowballing." <i>Frontiers in research metrics and analytics</i>, 6, 33.
