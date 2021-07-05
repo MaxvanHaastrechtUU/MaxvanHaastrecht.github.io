@@ -1,6 +1,6 @@
 ---
 title: "Cybersecurity Escape Room With U-Talent"
-collection: teaching
+collection: project
 type: "Research Project"
 permalink: /projects/u-talent-2021
 venue: "Utrecht University"
