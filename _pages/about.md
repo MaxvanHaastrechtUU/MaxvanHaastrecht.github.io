@@ -10,7 +10,9 @@ redirect_from:
 
 Read about my publications, teaching, talks, and more. For more information on my research, see my [Utrecht University](https://www.uu.nl/medewerkers/MANHaastrecht) page and the website of the [GEIGER project](https://project.cyber-geiger.eu/).
 
-My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: <i>I quote others only in order the better to express myself.<i/> So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am.
+My work is what I do, but it doesn't always reflect who I am. Michel de Montaigne once said: <i>I quote others only in order the better to express myself.<i/>
+  
+So, to give you some sense of what I find interesting and important, here are some quotes by others that express who I am:
   
 <i>Humility is not thinking less of yourself, but thinking of yourself less.<i/> - C.S. Lewis
   
